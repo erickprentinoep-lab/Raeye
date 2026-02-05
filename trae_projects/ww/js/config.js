@@ -1,0 +1,1 @@
+const config={WHATSAPP_NUMBER:"6281234567890",SOCIAL:{instagram:"https://instagram.com/raeyemedan",tiktok:"https://www.tiktok.com/@raeyemedan",facebook:"https://facebook.com/raeyemedan",youtube:"https://www.youtube.com/@raeyemedan"}};
